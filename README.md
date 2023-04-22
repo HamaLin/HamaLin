@@ -1,7 +1,7 @@
 # Hi nice to meet you! 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=awdmm24)](https://solved.ac/awdmm24/)
-
+[![Solved.ac awdmm24](http://mazassumnida.wtf/api/v2/generate_badge?boj=awdmm24)](https://solved.ac/profile/awdmm24)
+https://solved.ac/profile/awdmm24
 <br />
 
 ## Using Skill
